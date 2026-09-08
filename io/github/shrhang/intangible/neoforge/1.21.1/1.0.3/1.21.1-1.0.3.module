@@ -1,8 +1,8 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "io.github.shrhang",
-    "module": "intangible-neoforge-1.21.1",
+    "group": "io.github.shrhang.intangible.neoforge",
+    "module": "1.21.1",
     "version": "1.0.3",
     "attributes": {
       "org.gradle.status": "release"
@@ -25,8 +25,8 @@
       },
       "files": [
         {
-          "name": "intangible-neoforge-1.21.1-1.0.3.jar",
-          "url": "intangible-neoforge-1.21.1-1.0.3.jar",
+          "name": "1.21.1-1.0.3.jar",
+          "url": "1.21.1-1.0.3.jar",
           "size": 27094,
           "sha512": "383da5c726da9275af220fffd442a669dcfcfd3e2a9127c8ece4707efa421ada02588a8693b4605d247b6aaffc94fff24a29a112cd9a50f2a4d39ada112dfde4",
           "sha256": "42db9c18bf6106acdfdf485e1bedebd4d6ffce71180d393cd666e6b0fc9d2068",
@@ -46,8 +46,8 @@
       },
       "files": [
         {
-          "name": "intangible-neoforge-1.21.1-1.0.3.jar",
-          "url": "intangible-neoforge-1.21.1-1.0.3.jar",
+          "name": "1.21.1-1.0.3.jar",
+          "url": "1.21.1-1.0.3.jar",
           "size": 27094,
           "sha512": "383da5c726da9275af220fffd442a669dcfcfd3e2a9127c8ece4707efa421ada02588a8693b4605d247b6aaffc94fff24a29a112cd9a50f2a4d39ada112dfde4",
           "sha256": "42db9c18bf6106acdfdf485e1bedebd4d6ffce71180d393cd666e6b0fc9d2068",
@@ -66,8 +66,8 @@
       },
       "files": [
         {
-          "name": "intangible-neoforge-1.21.1-1.0.3-sources.jar",
-          "url": "intangible-neoforge-1.21.1-1.0.3-sources.jar",
+          "name": "1.21.1-1.0.3-sources.jar",
+          "url": "1.21.1-1.0.3-sources.jar",
           "size": 15778,
           "sha512": "3352df7c007267df6cf5a0d252ed7e1a97d325c7c0ece972a30643f4caa9fc1bad58aff3f59ffb66a549cfbafbb671191e755b3fef2b85d47f74aab4eeb399ff",
           "sha256": "0b7bf0f10dfc6d6db947ae691f125e4662dd64d3fd98de61d8ef8f047404d05a",

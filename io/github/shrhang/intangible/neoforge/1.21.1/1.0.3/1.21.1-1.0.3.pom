@@ -7,7 +7,7 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>io.github.shrhang</groupId>
-  <artifactId>intangible-neoforge-1.21.1</artifactId>
+  <groupId>io.github.shrhang.intangible.neoforge</groupId>
+  <artifactId>1.21.1</artifactId>
   <version>1.0.3</version>
 </project>
