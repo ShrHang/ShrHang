@@ -1,0 +1,80 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "io.github.shrhang",
+    "module": "intangible-neoforge-26.1-26.2",
+    "version": "1.0.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.7.0"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "intangible-neoforge-26.1-26.2-1.0.3.jar",
+          "url": "intangible-neoforge-26.1-26.2-1.0.3.jar",
+          "size": 29034,
+          "sha512": "f1476836209f3822408318ab388dd5378b977d5a6b5f0e6a156c504cd84eca658a3ae51b61cf16b9719fa2723513822ade173a76d88856d26eac6774942379ad",
+          "sha256": "a5aa924ad11ae4cc153887bf6478f1e18418539abb6d5f3e0ea54be0525cfee6",
+          "sha1": "d5024d61c866749b8c9039d7abb6d0503a444df4",
+          "md5": "a947893a6d43438dab1515f118ca3843"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "intangible-neoforge-26.1-26.2-1.0.3.jar",
+          "url": "intangible-neoforge-26.1-26.2-1.0.3.jar",
+          "size": 29034,
+          "sha512": "f1476836209f3822408318ab388dd5378b977d5a6b5f0e6a156c504cd84eca658a3ae51b61cf16b9719fa2723513822ade173a76d88856d26eac6774942379ad",
+          "sha256": "a5aa924ad11ae4cc153887bf6478f1e18418539abb6d5f3e0ea54be0525cfee6",
+          "sha1": "d5024d61c866749b8c9039d7abb6d0503a444df4",
+          "md5": "a947893a6d43438dab1515f118ca3843"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "intangible-neoforge-26.1-26.2-1.0.3-sources.jar",
+          "url": "intangible-neoforge-26.1-26.2-1.0.3-sources.jar",
+          "size": 16161,
+          "sha512": "de9d291d7f6e00c47bee2d71dc99b5a5f16d0f11074174aee9524a3a79c229b7ba7526d92a335e147f69929eaf72334fcdd4405704a4219469fecc70c90436a8",
+          "sha256": "66eea4fd105333a3c4ec0847f26738099191d2af7f5fccd821984b8979d671e2",
+          "sha1": "61189f7b63ef01e37d03a50d6996e21621c83384",
+          "md5": "66659737303f44c52bbddb6897151ef8"
+        }
+      ]
+    }
+  ]
+}
